@@ -18,6 +18,7 @@
 | ------------------------- | :--------------------- |:---------------------------|
 | [1. Прогнозирование количества заказов такси](https://github.com/thorstein1988/Train_projects/tree/main/taxi_ts)| Таймсерии. Модель для прогнозирования количества заказов такси.| LightGBM, Scikit-learn, Statsmodels, Pandas, Torch. Time series, FCNN,  машинное обучение, создание признаков.|
 | [2. Прогнозирование оттока клиентов](https://github.com/thorstein1988/Train_projects/tree/main/Telecom)| Необходимо спрогонозировать, уйдет ли клиент в ближайшее время или нет.| PostgreSQL, KMeans, Scikit-learn, Pandas, Torch, xgboost. Классификация, FCNN,  машинное обучение, создание признаков, интерпритируемый ML|
+| [3. Прогнозирование движения валютной пары](https://github.com/thorstein1988/Train_projects/tree/main/Telecom)| Прогнозирование движения финансового инструмента на примере пары EUR/USD| В работе|
 
 <!--
 **thorstein1988/thorstein1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
